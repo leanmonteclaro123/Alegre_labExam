@@ -1,3 +1,1 @@
-def greet(name):
- print(f"Hello, {name}!")
-greet("Alice")
+print("Hello pilipinas mabuhay")
